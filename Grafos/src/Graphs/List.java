@@ -5,9 +5,10 @@
  */
 package Graphs;
 /**
- * 
- * @author Wilson Soto
- * @since 20.06.16
+ *
+ * @author JEFFERSON DARIO MARIN GIRALDO 
+ * @author JUAN JOSE PARADA PEÑALOZA 
+ * @since 13/09/2017
  *
  */
 public class List implements LinearList {

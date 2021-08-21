@@ -11,8 +11,8 @@ import java.util.Scanner;
 
 /**
  *
- * @author JEFFERSON DARIO MARIN GIRALDO 1.013.686.675
- * @author JUAN JOSE PARADA PEÑALOZA 1.094.282.262
+ * @author JEFFERSON DARIO MARIN GIRALDO 
+ * @author JUAN JOSE PARADA PEÑALOZA 
  * @since 13/09/2017
  *
  */
